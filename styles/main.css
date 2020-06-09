@@ -1034,9 +1034,9 @@ p.quote-post {
   opacity: 1;
 }
 
-.flickity-page-dots .dot.is-selected {
+/* .flickity-page-dots .dot.is-selected {
   background-color: #000;
-}
+} */
 
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -2056,7 +2056,7 @@ h2.title:after {
 }
 
 .biography .biography-image {
-  background: #000 url("../images/demo/biography/about.jpg") no-repeat center;
+  background: #000 url("../img/albumcover1.jpg") no-repeat center;
 }
 
 .biography .biography-image {
@@ -2075,11 +2075,12 @@ h2.title:after {
 }
 
 .next-show {
-  background: #FFF url("../images/demo/next-show/next-shows.jpg") no-repeat center;
+  background: #FFF url("../img/akcay_disco.jpg") no-repeat center;
   background-size: cover;
 }
 
 .next-show .next-show-title {
+  color: #fff;
   font-size: 55px;
   line-height: 55px;
   font-family: "Montserrat", sans-serif;
@@ -2087,6 +2088,7 @@ h2.title:after {
 }
 
 .next-show .next-show-subtitle {
+  color: #fff;
   font-family: "cousine", monospace;
 }
 
